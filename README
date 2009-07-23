@@ -1,0 +1,5 @@
+v2 is what you want
+
+Modify Stats.DATA_FILE_LOC to point to your downloaded JSON file
+Run the main method of AverageSeasonReviewer
+It should spit out stats for each manager
